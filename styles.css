@@ -1,0 +1,10 @@
+.teampokemon {
+    display: flexbox;
+    width: 200px;
+    margin: 5px;
+}
+
+#team {
+    display: flex;
+    text-align: center;
+}
